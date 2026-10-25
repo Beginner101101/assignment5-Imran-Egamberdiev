@@ -5,13 +5,13 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+- Imran
+- BECEP26A2
 
 ## Description of the project
 
-Write the description of the project here.
+To learn how to use GitHub.
 
 ## User instruction
 
-Write the user instructions here.
+To change the README file.
